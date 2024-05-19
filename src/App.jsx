@@ -34,7 +34,7 @@ const App = () => {
         <Subscribe/>
        </section>
 
-       <section className="padding">
+       <section className="padding bg-black">
         <Footer/>
        </section>
 
